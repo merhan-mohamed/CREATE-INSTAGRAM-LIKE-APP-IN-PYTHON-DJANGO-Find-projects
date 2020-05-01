@@ -1,0 +1,9 @@
+{
+  "name": "ionic2-boilerplate",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular",
+  "defaultBrowser": "Chrome",
+  "id": "25a5ac9a"
+}
