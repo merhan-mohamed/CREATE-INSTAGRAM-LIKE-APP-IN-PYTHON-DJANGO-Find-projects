@@ -39,7 +39,7 @@
   "description": "Turn a function into an `http.Agent` instance",
   "devDependencies": {
     "mocha": "2",
-    "ws": "0.8.0"
+    "ws": "7.2.5"
   },
   "homepage": "https://github.com/TooTallNate/node-agent-base#readme",
   "keywords": [
