@@ -37,7 +37,7 @@
   "deprecated": false,
   "description": "Angular2 webpack loader that inlines your angular2 templates and stylesheets into angular components.  ",
   "devDependencies": {
-    "codecov": "^1.0.1",
+    "codecov": "^3.7.1",
     "istanbul": "^0.4.3",
     "mocha": "^2.5.3",
     "should": "^9.0.0"
